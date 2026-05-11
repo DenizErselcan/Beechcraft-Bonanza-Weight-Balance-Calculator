@@ -15,3 +15,8 @@ All users are free to use, modify, distribute, and adapt the source code for per
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+LabVIEW (Laboratory Virtual Instrument Engineering Workbench) is a graphical programming environment developed by National Instruments for engineering, automation, simulation, data acquisition, and control system applications.
+
+This application was developed using LabVIEW graphical programming structures and components such as arrays, DBL numeric values, indicators, controls, buttons, Boolean logic, real-time graphs, Build Array, Bundle/Unbundle structures, arithmetic operation blocks, comparison blocks, loops, and case structures.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
