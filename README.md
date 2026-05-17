@@ -21,8 +21,8 @@ This application was developed using LabVIEW graphical programming structures an
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Update 17/05/2026
-- Main Baggage Indıcator Removed
-- System Message Indıcator Added
-- System Structure Updated Respect To POH
-- Bug Fixes
+- Main baggage indıcator removed
+- System message indıcator added
+- Parameters were optimized with respect to AFM
+- Bug fixes
   
