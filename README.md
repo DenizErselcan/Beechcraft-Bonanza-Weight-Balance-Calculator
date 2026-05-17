@@ -23,7 +23,7 @@ This application was developed using LabVIEW graphical programming structures an
 
 Update 17/05/2026
 - Main baggage indicator removed
-- System message indıcator added
+- System message indicator added
 - Parameters were optimized with respect to AFM
 - Bug fixes
 
