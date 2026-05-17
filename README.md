@@ -20,3 +20,9 @@ LabVIEW (Laboratory Virtual Instrument Engineering Workbench) is a graphical pro
 This application was developed using LabVIEW graphical programming structures and components such as arrays, DBL numeric values, indicators, controls, buttons, Boolean logic, real-time graphs, Build Array, Bundle/Unbundle structures, arithmetic operation blocks, comparison blocks, loops, and case structures.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Update 17/05/2026
+- Main Baggage Indıcator Removed
+- System Message Indıcator Added
+- System Structure Updated Respect To POH
+- Bug Fixes
+  
