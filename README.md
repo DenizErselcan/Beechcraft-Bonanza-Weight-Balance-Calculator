@@ -22,6 +22,7 @@ This application was developed using LabVIEW graphical programming structures an
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Update 17/05/2026
+- BEW mass and arm values are fixed
 - Main baggage indicator removed
 - System message indicator added
 - Parameters were optimized with respect to AFM
